@@ -8,3 +8,6 @@ This tool can only aid but not replace your internet responsibility.
 
 
 You can use this website: https://malqr.shielder.com to find QR codes to test this scanner. 
+
+
+Advance version: https://github.com/YashKantheti/advance-qr-scanner
